@@ -18,7 +18,7 @@ public class MergeSortTDSedgewick1 {
         System.out.println("OUT: " + Arrays.toString(testArray));
     }
 
-    private static Integer[] aux; // auxiliary array for merges
+    private static Integer[] aux; // Auxiliary array for merges.
 
     public static void sort(Integer[] a) {
         aux = new Integer[a.length]; // Allocate space just once.
