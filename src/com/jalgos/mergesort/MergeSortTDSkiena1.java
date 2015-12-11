@@ -6,11 +6,13 @@ import java.util.List;
 import java.util.Queue;
 
 /**
+ * Top-down mergesort.
+ *
  * Based on:
  * Steven S. Skiena. The Algorithm Design Manual. Second Edition. Springer, 2008.
  * ISBN: 978-1-84800-069-8
  */
-public class MergeSortSkiena1 {
+public class MergeSortTDSkiena1 {
 
     public static void main(String[] args) {
         List<Integer> testList = Arrays.asList(2, 1, 1, 7, 9, 3 ,5);
