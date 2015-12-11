@@ -3,7 +3,7 @@ package com.jalgos.mergesort;
 import java.util.Arrays;
 
 /**
- * Top-down mergesort.
+ * Top-down mergesort in functional style.
  *
  * Based on Skiena and my thoughts.
  */
