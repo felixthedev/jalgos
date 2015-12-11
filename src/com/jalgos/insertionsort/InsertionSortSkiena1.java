@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
+ * Insertion sort.
+ *
  * Based on:
  * Steven S. Skiena. The Algorithm Design Manual. Second Edition. Springer, 2008.
  * ISBN: 978-1-84800-069-8
